@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a student at Pelita Bangsa University with a p
 - **[Dominos Pizza Bot]**: Telegram bot for Domino’s Pizza ordering using TF-IDF and cosine similarity with Python.  
   [GitHub Repository](https://github.com/ristof5/Dominospizzabot) | [Live Demo](https://t.me/dominicpizza_bot)  
 
-- **[E-Commerce Website]**: Built a fully responsive e-commerce website using PHP and MySQL.  
-  [GitHub Repository](https://github.com/sidikriffani/ecommerce-website) |
+- **[Geolocation Attendance]**: Built a website using PHP and MySQL.  
+  [GitHub Repository](https://github.com/ristof5/location-absence) |
 
 - **[Sentiment Analysis on Info BMKG Apps]**: Analyzed sentiment on meteorology news using Naïve Bayes and SVM algorithms.  
   [GitHub Repository](https://github.com/ristof5/Sentiment-Analysis-on-Info-BMKG-apps) |
