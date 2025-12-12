@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm a student at Pelita Bangsa University with a p
 
 ### About Me
 - 💼 Aspiring **Full-Stack Developer** and **Machine Learning Enthusiast**.  
-- 🌱 Currently learning and improving skills in **HTML**, **CSS**, **JavaScript**, **React.js**, **PHP**, **Python**, and **MySQL**.  
-- 🎓 Studying **Informatics Engineering** at Pelita Bangsa University.  
+- 🌱 Currently learning and improving skills in **HTML**, **CSS**, **JavaScript**, **React.js**, **PHP**, **Python**, and **MySQL**.   
 - 🚀 Actively working on projects to enhance my problem-solving and technical skills.
 
 ---
